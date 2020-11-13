@@ -1,0 +1,25 @@
+{
+  "name": "basic-auto-compiled-web",
+  "version": "1.0.0",
+  "description": "build system in front-end web development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StyvenSoft/basic-auto-compiled-web.git"
+  },
+  "author": "Steveen Echeverry",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StyvenSoft/basic-auto-compiled-web/issues"
+  },
+  "homepage": "https://github.com/StyvenSoft/basic-auto-compiled-web#readme",
+  "devDependencies": {
+    "browserify": "^17.0.0",
+    "gulp": "^4.0.2",
+    "gulp-pug": "^4.0.1",
+    "gulp-sass": "^4.1.0"
+  }
+}
