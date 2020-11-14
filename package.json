@@ -1,5 +1,5 @@
 {
-  "name": "basic-auto-compiled-web",
+  "name": "@styvensoft/basic-auto-compiled-web",
   "version": "1.0.0",
   "description": "build system in front-end web development",
   "main": "index.js",
