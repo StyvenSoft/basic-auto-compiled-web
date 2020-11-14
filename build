@@ -1,0 +1,7 @@
+#!/bin/bash
+
+gulp sass && gulp pug
+
+echo "Completed"
+
+gulp
