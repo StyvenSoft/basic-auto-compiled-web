@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/StyvenSoft/basic-auto-compiled-web#readme",
   "devDependencies": {
-    "browserify": "^17.0.0",
+    "browser-sync": "^2.26.13",
     "gulp": "^4.0.2",
     "gulp-pug": "^4.0.1",
     "gulp-sass": "^4.1.0"
